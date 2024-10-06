@@ -55,7 +55,7 @@ If you find this repository useful, feel free to fork it and give it a star ⭐.
 ## 🐞 Bugs and Future Fixes
 
 - There is currently a bug with the icon paths when executing runnable JARs and within the IDE. This affects the display of icons in the application.
-- A backup file named MainAppbackup.java has been created, which contains the correct paths for the icons.
+- A backup file named `MainAppbackup.java` has been created, which contains the correct paths for the icons.
 - Future fixes will address this issue to ensure that the icons load correctly in all execution environments.
 
 ## 📄 License
