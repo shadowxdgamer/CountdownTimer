@@ -26,6 +26,7 @@ If you find this repository useful, feel free to fork it and give it a star ⭐.
 ![⏰ Countdown Timer](screenshots/timer.png)
 *The main countdown timer interface.*
 ![⏱️ Stopwatch Timer](screenshots/stopwatch.png)
+*The stopwatch timer interface.*
 
 ## Features
 
